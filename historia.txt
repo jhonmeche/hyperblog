@@ -1,0 +1,3 @@
+Mi nombre es Jhon Dairo Meche Tenza
+Jhon Dairo Meche Tenza nacio en Colombia
+Hoy hablare de lo que me paso por no hacer commit en git
